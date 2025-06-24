@@ -1,0 +1,10 @@
+transformers==4.30.0
+scikit-learn==1.3.0
+pandas
+numpy
+torch
+matplotlib
+seaborn
+nltk
+datasets>=2.0.0
+wandb>=0.16.0
